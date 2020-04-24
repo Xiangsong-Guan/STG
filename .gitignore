@@ -1,0 +1,10 @@
+# cmake build
+build
+
+# vscode
+.vscode
+
+# 3rd party file
+glad.c
+stb_image.h
+stb_image.cpp
